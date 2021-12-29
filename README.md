@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 -->
 ![Green Hand-drawn Welcome Google Classroom Header](https://user-images.githubusercontent.com/68809099/147661463-ac16a7c5-71aa-47bf-bd5f-7f2db6ebc0d5.png)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=xxpsynagure&theme=mekro" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=xxpsynagure&theme=radical" />
