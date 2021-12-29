@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 ![Purple Sky Profile Header](https://user-images.githubusercontent.com/68809099/147663466-eea16b11-d25a-4207-887e-9d587d0367c5.png)
 -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=xxpsynagure&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxpsynagure&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
