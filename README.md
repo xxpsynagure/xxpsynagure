@@ -25,6 +25,14 @@ Here are some ideas to get you started:
 ![Green Hand-drawn Welcome Google Classroom Header](https://user-images.githubusercontent.com/68809099/147661463-ac16a7c5-71aa-47bf-bd5f-7f2db6ebc0d5.png)
 
 ![Purple Sky Profile Header](https://user-images.githubusercontent.com/68809099/147663466-eea16b11-d25a-4207-887e-9d587d0367c5.png)
--->
+
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=xxpsynagure&theme=radical" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxpsynagure&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+-->
+
+<a href="https://github.com/xxpsynagure/xxpsynagure">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxpsynagure&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/xxpsynagure/xxpsynagure">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xxpsynagure&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
