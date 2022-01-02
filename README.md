@@ -27,5 +27,11 @@ Here are some ideas to get you started:
 ![Purple Sky Profile Header](https://user-images.githubusercontent.com/68809099/147663466-eea16b11-d25a-4207-887e-9d587d0367c5.png)
 -->
 
+- 👋 Hi, I'm Pragnya Nagure!
+- 👩‍🎓 I'm pursuing my BE in CSE (third year).
+- 🌱 I'm currently learning the Django Framework.
+- 🔭 I'm currently working on my academic projects.
+- ⚡ My HackerRank profile: https://www.hackerrank.com/pragnya_nagure21
+
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxpsynagure&theme=radical" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=xxpsynagure&theme=radical" />
