@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 👋 Hi, I'm Pragnya Nagure!
 - 👩‍🎓 I'm pursuing my BE in CSE (third year).
-- 🌱 I'm currently learning the Django Framework.
+- 🌱 I'm currently learning the Django Framework and Game Development.
 - 🔭 I'm currently working on my academic projects.
 - ⚡ My HackerRank profile: https://www.hackerrank.com/pragnya_nagure21
 
