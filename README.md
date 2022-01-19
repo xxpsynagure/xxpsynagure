@@ -18,3 +18,5 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxpsynagure&theme=radical" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=xxpsynagure&theme=radical" />
+
+![](https://komarev.com/ghpvc/?username=xxpsynagure&label=)
