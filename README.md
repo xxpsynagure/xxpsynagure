@@ -1,9 +1,9 @@
 ![Purple Sky Profile Header (1) (1)](https://user-images.githubusercontent.com/68809099/147664278-450f5e39-9e30-4403-9e2c-3a3807e20bbf.png)
 
 - 👋 Hi, I'm Pragnya Nagure!
-- 👩‍🎓 I'm pursuing my BE in CSE (third year).
-- 🌱 I'm currently learning the Django Framework and Game Development with SFML.
-- 🔭 I'm currently working on my academic projects.
+- 👩‍🎓 I'm pursuing my BE in CSE (Final Year).
+- 🌱 I'm currently learning the Django Rest Framework.
+- 🔭 I'm currently working on my Internship.
 
 <div align="center">
 <a href="https://linkedin.com/in/pragnya-nagure-648458225" target="_blank">
