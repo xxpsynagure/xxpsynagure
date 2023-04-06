@@ -2,8 +2,8 @@
 
 - 👋 Hi, I'm Pragnya Nagure!
 - 👩‍🎓 I'm pursuing my BE in CSE (Final Year).
-- 🌱 I'm currently learning the Django Rest Framework.
-- 🔭 I'm currently working on my Internship.
+<!-- - 🌱 I'm currently learning the Django Rest Framework.
+- 🔭 I'm currently working on my Internship. -->
 
 <div align="center">
 <a href="https://linkedin.com/in/pragnya-nagure-648458225" target="_blank">
