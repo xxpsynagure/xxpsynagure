@@ -1,8 +1,8 @@
 ![Purple Sky Profile Header (1) (1)](https://user-images.githubusercontent.com/68809099/147664278-450f5e39-9e30-4403-9e2c-3a3807e20bbf.png)
 
 - 👋 Hi, I'm Pragnya Nagure!
-- 👩‍🎓 I'm pursuing my BE in CSE (Final Year).
-<!-- - 🌱 I'm currently learning the Django Rest Framework.
+<!-- - 👩‍🎓 I'm pursuing my BE in CSE (Final Year).
+ - 🌱 I'm currently learning the Django Rest Framework.
 - 🔭 I'm currently working on my Internship. -->
 
 <div align="center">
@@ -17,6 +17,6 @@
 </div>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxpsynagure&theme=radical" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=xxpsynagure&theme=radical" />
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=xxpsynagure&theme=radical" /> -->
 
-![](https://komarev.com/ghpvc/?username=xxpsynagure&label=)
+![](https://komarev.com/ghpvc/?username=xxpsynagure&label=Visitors)
